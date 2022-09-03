@@ -29,7 +29,9 @@ public class Company {
 	  System.out.println();
 	  company1.companyId();
 	  System.out.println("after new object companyId"+company1.b);
-	
-	
+	 System.out.println("after new object companyId");
+	 System.out.println("after new object companyId");
+        System.out.println("after new object companyId");
+       System.out.println("after new object companyId");
 	}
 }
